@@ -9,16 +9,6 @@ body {
 
 
 div.main-navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 9999;
-    
-    /* Force it to match page width and avoid shifting */
-    width: 100vw;
-    box-sizing: border-box;
-    
     font-weight: 600;
     font-size: 15px;
     margin: 1% 7% 0 7%;
