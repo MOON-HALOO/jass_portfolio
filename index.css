@@ -22,9 +22,7 @@ div.main-navbar {
     border: 1px solid rgba(255, 255, 255, 0.567);
 }
 
-.navbar-hidden {
-  top: -100px !important; /* Hides navbar smoothly */
-}
+
 
 .navbar-brand img {
     height: 100%;
